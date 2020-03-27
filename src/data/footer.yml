@@ -1,3 +1,6 @@
 ---
 content: "© \\[year\\] All rights reserved. Denise Means LLC"
-links: []
+links:
+- url: https://www.nomad-ops.com
+  new_window: true
+  text: Site by Nomad Ops
