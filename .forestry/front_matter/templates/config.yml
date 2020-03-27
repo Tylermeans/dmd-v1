@@ -8,8 +8,3 @@ fields:
   description: Site title
   config:
     required: true
-- type: text
-  name: none
-  label: None
-  description: An empty var, used so the site params section will function
-  hidden: true
