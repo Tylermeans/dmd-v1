@@ -38,4 +38,3 @@ fields:
     required: true
 pages:
 - src/pages/posts/magna.md
-- src/pages/posts/sed.md
