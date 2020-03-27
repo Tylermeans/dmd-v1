@@ -1,5 +1,6 @@
-content: '&copy; All rights reserved.'
+---
+content: "© \\[year\\] All rights reserved. Denise Means LLC"
 links:
-  - text: Made with Stackbit
-    url: 'https://www.stackbit.com'
-    new_window: true
+- text: Made with Stackbit
+  url: https://www.stackbit.com
+  new_window: true
